@@ -1,0 +1,25 @@
+
+e
+5src/main/java/sn/dev/jeeapp2024/web/ProduitModel.java,f\f\ffa2e271be4e9a97be6d3cf4bf6753fee40fe264
+`
+0src/main/java/sn/dev/jeeapp2024/dao/TestDao.java,d\0\d0ca3cdce117ef3f51511ac6b9f263b87ac0c7ed
+d
+4src/main/java/sn/dev/jeeapp2024/dao/IProduitDao.java,0\d\0d62249293197290c2704463271d7eaf77c4541f
+g
+7src/main/java/sn/dev/jeeapp2024/dao/ProduitImplDao.java,7\f\7fc5917402059f50a4c4b02dd6739c07cb9121b6
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+l
+<src/main/java/sn/dev/jeeapp2024/dao/SingletonConnection.java,7\3\73cd7df38735b92d2627114b642c94e1d25e8520
+g
+7src/main/java/sn/dev/jeeapp2024/web/ProduitServlet.java,6\7\67f5b2d3cd36b05cedee8ac77cd0fc393eafb5a5
+H
+src/main/webapp/list.jsp,a\4\a48535ab683e00f53c770ffe36415e8bfdb94cca
+J
+src/main/webapp/detail.jsp,e\0\e0b934fd70dae826f1ea3c0cd4ce3970ff66ea71
+G
+src/main/webapp/add.jsp,7\9\79a8f0cc09704d66eb43247a453d38e7cb608bf4
+H
+src/main/webapp/edit.jsp,9\0\90d3c2045ebec1335c07730113ac62fc4210df60
+J
+src/main/webapp/topBar.jsp,e\c\eccd215eb3d4e2f369ac78ea183bb8114c602d6f
